@@ -1,6 +1,6 @@
 <div align="center">
 
-# Awesome Federated Learning in Cybersecurity 🛡️
+# Federated Learning in Cybersecurity 🛡️
 
 *A curated list of resources, datasets, and research papers mapping the intersection of Federated Learning and Cyber Defense.*
 
